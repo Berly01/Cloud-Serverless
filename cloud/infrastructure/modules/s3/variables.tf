@@ -1,0 +1,22 @@
+# S3 Module - Historical Data Storage
+
+variable "name_prefix" {
+  description = "Prefix for resource names"
+  type        = string
+}
+
+variable "random_suffix" {
+  description = "Random suffix for globally unique bucket name"
+  type        = string
+}
+
+variable "environment" {
+  description = "Environment name"
+  type        = string
+}
+
+variable "tags" {
+  description = "Tags to apply to resources"
+  type        = map(string)
+  default     = {}
+}

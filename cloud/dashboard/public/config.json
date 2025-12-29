@@ -1,0 +1,7 @@
+{
+  "apiUrl": "https://mnly95hx5m.execute-api.us-east-1.amazonaws.com/dev",
+  "cognitoUserPoolId": "us-east-1_uS5wI2MmB",
+  "cognitoClientId": "7oiovcb2gqa85l5fukkh042knu",
+  "cognitoDomain": "bpm-monitoring-dev",
+  "region": "us-east-1"
+}
