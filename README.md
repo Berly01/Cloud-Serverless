@@ -2,6 +2,11 @@
 
 Sistema de monitoreo de frecuencia cardíaca (BPM) en tiempo real utilizando arquitectura serverless en AWS, desplegado con OpenTofu.
 
+
+## Arquitectura
+
+<img width="1536" height="684" alt="762c903d-bb5d-4de8-bf1b-575c961f5b7d" src="https://github.com/user-attachments/assets/a3af3b36-ae18-4390-80e0-bfe6d5803530" />
+
 ## Descripción
 
 Esta infraestructura implementa un sistema completo de IoT para monitoreo de salud cardíaca, procesando datos de dispositivos en tiempo real, almacenándolos para análisis histórico y generando alertas automáticas cuando se detectan valores anormales.
